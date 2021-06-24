@@ -1,5 +1,5 @@
 # tic-tac-toe
-gitclone https://github.com/priyanka-777/tic-tac-toe
+git clone https://github.com/priyanka-777/tic-tac-toe
 cd tic-tac-toe
 chmod +x index.sh
 ./index.sh
